@@ -3,7 +3,6 @@
 /*---------------------------------------------------------
  * file:	main.c
  * author:	[NAME]
- * email:	[DIGIPEN EMAIL ADDRESS]
 * 
  * brief:	Main entry point for the sample project
 			* of the CProcessing library
@@ -21,7 +20,7 @@
 #include "cprocessing.h"
 
 
-
+// HELLO IF TYOU SEE ME SAY HI
 typedef struct _Particle
 {
     CP_Vector pos;
